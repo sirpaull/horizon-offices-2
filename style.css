@@ -1,0 +1,40 @@
+
+ .item {
+ 	height: 450px;
+ 	width: 100%;
+ 	margin-top: 12px;
+
+ }
+
+.navbar-brand img{
+	width: 45%;
+}
+
+.row h2 {
+	text-align: center;
+	font-weight: bold;
+}
+
+.thumbnail img {
+	height: 200px;
+}
+
+.footer {
+	background-color: #001d60;
+	color: white;
+}
+
+.h4 {
+	color: #d98b10;
+}
+
+.h5 {
+	color: #c3d600;	
+}
+
+.navbar-nav>li>a {
+	font-weight: bold;
+}
+
+
+
